@@ -1,0 +1,6 @@
+configc.c
+
+debug/
+target/
+
+**/*.rs.bk
